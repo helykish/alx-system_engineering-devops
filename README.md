@@ -1,1 +1,1 @@
-0x00. Shell, basics
+0x04. Loops, conditions and parsing
