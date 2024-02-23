@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Script display a list of currently running processes.
+#   Shows all processes for all users even for those
+#+  which might not have a TTY.
+
+ps -auxf
