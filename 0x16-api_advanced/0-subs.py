@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains the number_of_subscribers function
+file contain the number_of_subscribers func
 """
 
 import requests
